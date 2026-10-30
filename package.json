@@ -62,7 +62,7 @@
     "del": "^4.1.1",
     "del-cli": "^1.1.0",
     "enhanced-resolve": "^4.1.0",
-    "eslint": "^5.16.0",
+    "eslint": "^10.13.0",
     "eslint-plugin-import": "^2.17.2",
     "eslint-plugin-prettier": "^3.1.0",
     "husky": "^2.2.0",
